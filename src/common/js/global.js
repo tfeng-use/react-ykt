@@ -1,0 +1,1 @@
+export const imgUrl = 'https://api.soeasyit.cn:8089'

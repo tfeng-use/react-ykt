@@ -1,0 +1,31 @@
+.home-wrapper .am-search-input input[type="search"] {
+  font-size: 1.4rem;
+  color: #3e4956;
+  caret-color: #333;
+}
+.home-wrapper .am-search-input {
+  background: rgba(255, 255, 255, 0.7);
+}
+.home-wrapper .am-search-cancel {
+  font-size: 1.4rem;
+  color: #999;
+}
+.home-wrapper .am-search-synthetic-ph-placeholder {
+  font-size: 1.4rem;
+  text-align: left;
+}
+.home-wrapper .am-search {
+  background: rgba(255, 255, 255, 0);
+}
+.home-wrapper .am-wingblank.am-wingblank-lg {
+  margin: 0;
+}
+.home-wrapper .am-search-input {
+  border-radius: 1.4rem;
+}
+.home-wrapper .am-search-input .am-search-synthetic-ph-placeholder {
+  font-size: 1.4rem;
+}
+.home-wrapper .am-carousel-wrap {
+  margin-bottom: 0.5rem;
+}
